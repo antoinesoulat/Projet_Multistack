@@ -1,0 +1,75 @@
+name: automatisation
+services:
+  frontend:
+    container_name: frontend
+    build:
+      context: ./ihm
+      dockerfile: Dockerfile
+    ports:
+      - "3000:3000"
+    environment:
+      - CHOKIDAR_USEPOLLING=true
+    networks:
+      - networkapp
+
+  backend:
+    container_name: backend
+    build:
+      context: ./calcul
+      dockerfile: Dockerfile
+    ports:
+      - "5001:5001"
+    networks:
+      - networkapp
+
+  bdd:
+    container_name: bdd
+    build:
+      context: .
+      dockerfile: ./IntermediaryApi/dockerfile
+    ports:
+      - "8000:8000"
+    depends_on:
+      - db
+    networks:
+      - networkapp
+
+  db:
+    container_name: db
+    image: mysql:9.2
+    environment:
+      MYSQL_ROOT_PASSWORD: rootpassword
+      MYSQL_DATABASE: intermediarydb
+      MYSQL_USER: appuser
+      MYSQL_PASSWORD: apppassword
+    ports:
+      - "3306:3306"
+    volumes:
+      - db_data:/var/lib/mysql
+      - ./init-db:/docker-entrypoint-initdb.d
+    networks:
+      - networkapp
+  
+  s3_storage:
+    container_name: s3
+    build:
+      context: ./s3
+    ports:
+      - "9000:9000"
+      - "8900:8900"
+    environment:
+      MINIO_ROOT_USER: minioadmin
+      MINIO_ROOT_PASSWORD: minioadmin
+    command: minio server /data/minio --console-address ":8900"
+    volumes:
+      - s3_data:/data
+    networks:
+      - networkapp
+
+volumes:
+  db_data:
+  s3_data:
+
+networks:
+  networkapp:
+    driver: bridge

@@ -1,0 +1,28 @@
+FROM mcr.microsoft.com/dotnet/sdk:7.0 AS build
+
+WORKDIR /src
+
+COPY IntermediaryApi/IntermediaryApi.csproj ./IntermediaryApi/
+RUN dotnet restore ./IntermediaryApi/IntermediaryApi.csproj
+
+COPY IntermediaryApi/. ./IntermediaryApi/
+
+RUN dotnet publish ./IntermediaryApi/IntermediaryApi.csproj -c Release -o /app/publish
+
+FROM mcr.microsoft.com/dotnet/sdk:7.0 AS final
+
+WORKDIR /app
+
+RUN apt-get update && apt-get install -y default-mysql-client
+
+RUN dotnet tool install --global dotnet-ef --version 7.0.0
+
+ENV PATH="$PATH:/root/.dotnet/tools"
+
+COPY --from=build /app/publish .
+
+RUN ls -la /app
+
+EXPOSE 8000
+
+ENTRYPOINT ["dotnet", "IntermediaryApi.dll"]

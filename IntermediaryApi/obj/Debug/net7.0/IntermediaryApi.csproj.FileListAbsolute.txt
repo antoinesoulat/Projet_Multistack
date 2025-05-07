@@ -1,0 +1,384 @@
+C:\BUT informatique\Semestre 5\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\IntermediaryApi.csproj.AssemblyReference.cache
+C:\BUT informatique\Semestre 5\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\IntermediaryApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\BUT informatique\Semestre 5\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\IntermediaryApi.AssemblyInfoInputs.cache
+C:\BUT informatique\Semestre 5\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\IntermediaryApi.AssemblyInfo.cs
+C:\BUT informatique\Semestre 5\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\IntermediaryApi.csproj.CoreCompileInputs.cache
+C:\BUT informatique\Semestre 5\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\IntermediaryApi.MvcApplicationPartsAssemblyInfo.cs
+C:\BUT informatique\Semestre 5\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\IntermediaryApi.MvcApplicationPartsAssemblyInfo.cache
+C:\BUT informatique\Semestre 5\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\appsettings.Development.json
+C:\BUT informatique\Semestre 5\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\appsettings.json
+C:\BUT informatique\Semestre 5\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\IntermediaryApi.exe
+C:\BUT informatique\Semestre 5\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\IntermediaryApi.deps.json
+C:\BUT informatique\Semestre 5\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\IntermediaryApi.runtimeconfig.json
+C:\BUT informatique\Semestre 5\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\IntermediaryApi.dll
+C:\BUT informatique\Semestre 5\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\IntermediaryApi.pdb
+C:\BUT informatique\Semestre 5\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\Humanizer.dll
+C:\BUT informatique\Semestre 5\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\BUT informatique\Semestre 5\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+C:\BUT informatique\Semestre 5\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\BUT informatique\Semestre 5\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\BUT informatique\Semestre 5\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\BUT informatique\Semestre 5\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\BUT informatique\Semestre 5\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\BUT informatique\Semestre 5\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\BUT informatique\Semestre 5\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\BUT informatique\Semestre 5\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\BUT informatique\Semestre 5\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+C:\BUT informatique\Semestre 5\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+C:\BUT informatique\Semestre 5\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\BUT informatique\Semestre 5\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\BUT informatique\Semestre 5\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\BUT informatique\Semestre 5\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\BUT informatique\Semestre 5\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\System.CodeDom.dll
+C:\BUT informatique\Semestre 5\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\BUT informatique\Semestre 5\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\BUT informatique\Semestre 5\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\BUT informatique\Semestre 5\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\BUT informatique\Semestre 5\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\BUT informatique\Semestre 5\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\BUT informatique\Semestre 5\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\BUT informatique\Semestre 5\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\BUT informatique\Semestre 5\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\BUT informatique\Semestre 5\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\BUT informatique\Semestre 5\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\BUT informatique\Semestre 5\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\BUT informatique\Semestre 5\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\BUT informatique\Semestre 5\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\BUT informatique\Semestre 5\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\BUT informatique\Semestre 5\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\BUT informatique\Semestre 5\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\BUT informatique\Semestre 5\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\BUT informatique\Semestre 5\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\BUT informatique\Semestre 5\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\BUT informatique\Semestre 5\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\BUT informatique\Semestre 5\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\BUT informatique\Semestre 5\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\staticwebassets\msbuild.IntermediaryApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\BUT informatique\Semestre 5\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\staticwebassets\msbuild.build.IntermediaryApi.props
+C:\BUT informatique\Semestre 5\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.IntermediaryApi.props
+C:\BUT informatique\Semestre 5\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.IntermediaryApi.props
+C:\BUT informatique\Semestre 5\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\BUT informatique\Semestre 5\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\BUT informatique\Semestre 5\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\BUT informatique\Semestre 5\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\scopedcss\bundle\IntermediaryApi.styles.css
+C:\BUT informatique\Semestre 5\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\IntermediaryApi.csproj.CopyComplete
+C:\BUT informatique\Semestre 5\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\IntermediaryApi.dll
+C:\BUT informatique\Semestre 5\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\refint\IntermediaryApi.dll
+C:\BUT informatique\Semestre 5\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\IntermediaryApi.pdb
+C:\BUT informatique\Semestre 5\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\IntermediaryApi.genruntimeconfig.cache
+C:\BUT informatique\Semestre 5\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\ref\IntermediaryApi.dll
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\IntermediaryApi.csproj.AssemblyReference.cache
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\IntermediaryApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\IntermediaryApi.AssemblyInfoInputs.cache
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\IntermediaryApi.AssemblyInfo.cs
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\IntermediaryApi.csproj.CoreCompileInputs.cache
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\IntermediaryApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\IntermediaryApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\IntermediaryApi.dll
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\refint\IntermediaryApi.dll
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\IntermediaryApi.pdb
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\publish\web.config
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\appsettings.json
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\publish\appsettings.Development.json
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\publish\appsettings.json
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\publish\IntermediaryApi.deps.json
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\publish\IntermediaryApi.runtimeconfig.json
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\IntermediaryApi.exe
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\IntermediaryApi.deps.json
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\IntermediaryApi.runtimeconfig.json
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\IntermediaryApi.dll
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\IntermediaryApi.pdb
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\Google.Protobuf.dll
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\MySql.Data.dll
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\System.Diagnostics.EventLog.dll
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\System.Text.Encoding.CodePages.dll
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\System.Text.Json.dll
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\ZstdSharp.dll
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.dll
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Text.Encoding.CodePages.dll
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\staticwebassets\msbuild.IntermediaryApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\staticwebassets\msbuild.build.IntermediaryApi.props
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.IntermediaryApi.props
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.IntermediaryApi.props
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\scopedcss\bundle\IntermediaryApi.styles.css
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\IntermediaryApi.csproj.CopyComplete
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\IntermediaryApi.genruntimeconfig.cache
+C:\Users\Antoine Soulat\Downloads\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\ref\IntermediaryApi.dll
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\publish\web.config
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\appsettings.Development.json
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\publish\appsettings.Development.json
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\publish\appsettings.json
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\publish\IntermediaryApi.deps.json
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\publish\IntermediaryApi.runtimeconfig.json
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\appsettings.json
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\IntermediaryApi.exe
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\IntermediaryApi.deps.json
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\IntermediaryApi.runtimeconfig.json
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\IntermediaryApi.dll
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\IntermediaryApi.pdb
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\Google.Protobuf.dll
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\Humanizer.dll
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\MySql.Data.dll
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\MySqlConnector.dll
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\System.CodeDom.dll
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\System.Diagnostics.DiagnosticSource.dll
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\System.Diagnostics.EventLog.dll
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\System.Text.Encoding.CodePages.dll
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\System.Text.Json.dll
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\ZstdSharp.dll
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.Messages.dll
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.dll
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Text.Encoding.CodePages.dll
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\IntermediaryApi.csproj.AssemblyReference.cache
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\IntermediaryApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\IntermediaryApi.AssemblyInfoInputs.cache
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\IntermediaryApi.AssemblyInfo.cs
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\IntermediaryApi.csproj.CoreCompileInputs.cache
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\IntermediaryApi.MvcApplicationPartsAssemblyInfo.cs
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\IntermediaryApi.MvcApplicationPartsAssemblyInfo.cache
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\staticwebassets\msbuild.IntermediaryApi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\staticwebassets\msbuild.build.IntermediaryApi.props
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.IntermediaryApi.props
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.IntermediaryApi.props
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\staticwebassets.pack.json
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\staticwebassets.build.json
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\staticwebassets.development.json
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\scopedcss\bundle\IntermediaryApi.styles.css
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\IntermediaryApi.csproj.CopyComplete
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\IntermediaryApi.dll
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\refint\IntermediaryApi.dll
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\IntermediaryApi.pdb
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\IntermediaryApi.genruntimeconfig.cache
+E:\dl\Automatisation - Analyse\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\ref\IntermediaryApi.dll
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\IntermediaryApi.csproj.AssemblyReference.cache
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\IntermediaryApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\IntermediaryApi.AssemblyInfoInputs.cache
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\IntermediaryApi.AssemblyInfo.cs
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\IntermediaryApi.csproj.CoreCompileInputs.cache
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\IntermediaryApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\IntermediaryApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\IntermediaryApi.dll
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\refint\IntermediaryApi.dll
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\IntermediaryApi.pdb
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\publish\web.config
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\publish\appsettings.Development.json
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\publish\appsettings.json
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\publish\IntermediaryApi.deps.json
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\publish\IntermediaryApi.runtimeconfig.json
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\appsettings.json
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\IntermediaryApi.exe
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\IntermediaryApi.deps.json
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\IntermediaryApi.runtimeconfig.json
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\IntermediaryApi.dll
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\IntermediaryApi.pdb
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\CommunityToolkit.HighPerformance.dll
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\Google.Protobuf.dll
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\Minio.dll
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\MySql.Data.dll
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\System.Diagnostics.EventLog.dll
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\System.IO.Hashing.dll
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\System.Reactive.dll
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\System.Text.Encoding.CodePages.dll
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\System.Text.Json.dll
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\ZstdSharp.dll
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.dll
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Text.Encoding.CodePages.dll
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\staticwebassets\msbuild.IntermediaryApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\staticwebassets\msbuild.build.IntermediaryApi.props
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.IntermediaryApi.props
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.IntermediaryApi.props
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\scopedcss\bundle\IntermediaryApi.styles.css
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\IntermediaryApi.csproj.CopyComplete
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\IntermediaryApi.genruntimeconfig.cache
+C:\Users\Antoine Soulat\Desktop\Automatisation - Analyse\IntermediaryApi\obj\Debug\net7.0\ref\IntermediaryApi.dll
