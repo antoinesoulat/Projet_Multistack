@@ -28,9 +28,9 @@ namespace IntermediaryApi.Controllers
             _connectionString = configuration.GetConnectionString("DefaultConnection") ?? throw new ArgumentNullException(nameof(configuration));
             _httpClient = httpClient;
             _logger = logger;
-            _minioClient = new MinioClient()
+            _Client = new MinioClient()
                 .WithEndpoint("s3:9000")
-                .WithCredentials("minioadmin", "minioadmin")
+                .WithCredentials(MINIO_ROOT_USER, MINIO_ROOT_PASSWORD)
                 .WithSSL(false)
                 .Build();
 
